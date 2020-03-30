@@ -49,4 +49,5 @@ class Student {
     this.DoB = DoB;
     this.clas = clas;
   }
+}
 
